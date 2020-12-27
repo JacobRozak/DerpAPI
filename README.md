@@ -1,2 +1,2 @@
 # DerpAPI
-just nother useless api
+just nother useless REST api
